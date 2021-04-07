@@ -1,4 +1,13 @@
-embeddings {
-  tensor_name: "ayat_meta"
-  metadata_path: "g:\\GitHub\\AL-Quran-AI\\SourceCode\\log-d2v\\ayat_meta.tsv"
+{
+  "embeddings": [
+    {
+      "tensorName": "Al-Fajar Insights",
+      "tensorShape": [
+        6236,
+        50
+      ],
+      "tensorPath": "https://github.com/wasimazad/tensorflow_data/blob/main/ayat_vecs.tsv",
+      "metadataPath": "https://github.com/wasimazad/tensorflow_data/blob/main/ayat_meta.tsv"
+    }
+  ]
 }
