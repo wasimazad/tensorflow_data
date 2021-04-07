@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "ayat_meta"
+  metadata_path: "g:\\GitHub\\AL-Quran-AI\\SourceCode\\log-d2v\\ayat_meta.tsv"
+}
